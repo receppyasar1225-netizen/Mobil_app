@@ -1,0 +1,616 @@
+Modern, profesyonel ve güçlü bir mobil video düzenleme uygulaması tasarla. Uygulamanın adı AfterCutPro olsun.
+
+Uygulama, CapCut'ın kullanım kolaylığını ve Adobe After Effects'in profesyonel efekt mantığını bir araya getirsin. Arayüz modern, hızlı, sade ve mobil cihazlara uygun olsun.
+
+ANA ÖZELLİKLER
+
+Video ve fotoğraf içe aktarma
+
+Çok katmanlı timeline
+
+Video kesme, bölme, birleştirme
+
+Hız ayarı ve speed ramp
+
+Keyframe sistemi
+
+Metin ve başlık ekleme
+
+Font, renk, boyut ve animasyon seçenekleri
+
+Geçiş efektleri
+
+Blur, Glow, Shake, Zoom, RGB Split ve Glitch efektleri
+
+Maske sistemi
+
+Chroma Key / Green Screen
+
+Ses ekleme ve ses seviyesini düzenleme
+
+Video ve ses için ayrı timeline katmanları
+
+Undo / Redo
+
+Proje kaydetme ve tekrar düzenleme
+
+MP4 olarak dışa aktarma
+
+CC BÖLÜMÜ
+
+Uygulamada özel bir CC bölümü oluştur.
+
+CC = Color Correction / Color Grading.
+
+CC panelinde:
+
+Brightness
+
+Contrast
+
+Saturation
+
+Exposure
+
+Highlights
+
+Shadows
+
+Temperature
+
+Tint
+
+Sharpen
+
+Fade
+
+Vignette
+
+Grain
+
+ayarları bulunmalı.
+
+Ayrıca profesyonel renk düzenleme için:
+
+RGB Curves
+
+Color Wheels
+
+HSL
+
+Hue
+
+Luminance
+
+Color presets / LUT desteği
+
+eklenmeli.
+
+Kullanıcı yaptığı CC ayarlarını Preset olarak kaydedebilmeli ve başka videolarda kullanabilmeli.
+
+TASARIM
+
+Koyu temalı, profesyonel video editörü görünümü kullan.
+
+Ana renkler siyah / koyu gri ve vurgu rengi mor veya mavi olabilir.
+
+Alt bölümde:
+
+Media | Audio | Text | Effects | CC | Adjust | Export
+Android için profesyonel bir video ve fotoğraf edit uygulaması oluştur.
+
+Uygulamanın adı: MotionCut Pro
+
+Uygulama; Adobe After Effects'in profesyonel animasyon, keyframe, katman, maske ve efekt mantığını ve CapCut'ın kolay, hızlı ve kullanıcı dostu video düzenleme deneyimini bir araya getiren modern bir mobil editör olsun.
+
+Arayüz koyu, modern, akıcı ve profesyonel görünsün. Uygulama telefonda kullanılacağı için tüm kontroller dokunmatik kullanıma uygun ve kolay erişilebilir olsun.
+
+🏠 ANA SAYFA
+
+Ana sayfada:
+
+Yeni Proje
+Fotoğraf Düzenle
+Video Düzenle
+Projelerim
+Şablonlar
+Efektler
+Animasyonlar
+Ayarlar
+
+bulunsun.
+
+Yeni Proje seçildiğinde kullanıcı:
+
+Fotoğraf
+Video
+GIF
+Ses
+
+ekleyebilsin.
+
+Proje oluştururken:
+
+16:9
+9:16
+1:1
+4:5
+Özel boyut
+
+seçilebilsin.
+
+🎬 PROFESYONEL EDİTÖR
+
+Edit ekranı üç ana bölümden oluşsun:
+
+Üst bölüm: Araçlar ve proje seçenekleri
+
+Orta bölüm: Büyük video/fotoğraf önizleme ekranı
+
+Alt bölüm: Profesyonel timeline ve katman sistemi
+
+Mobil kullanım için paneller açılıp kapanabilsin.
+
+🕐 PROFESYONEL MULTI-LAYER TIMELINE
+
+Çok katmanlı timeline sistemi oluştur.
+
+Katman türleri:
+
+Video
+Fotoğraf
+Metin
+Sticker
+Şekil
+Efekt
+Ses
+Overlay
+
+Her katman:
+
+Taşınabilsin
+Kısaltılabilsin
+Uzatılabilsin
+Bölünebilsin
+Kopyalanabilsin
+Silinebilsin
+Gizlenebilsin
+Kilitlenebilsin
+Yeniden adlandırılabilsin
+
+Timeline özellikleri:
+
+Zoom in/out
+Frame-by-frame ilerleme
+Oynat/durdur
+Geri/ileri sar
+FPS göstergesi
+Zaman göstergesi
+Snap
+Başlangıç/bitiş noktası
+🔑 KEYFRAME SİSTEMİ
+
+After Effects benzeri güçlü fakat kolay anlaşılır bir keyframe sistemi oluştur.
+
+Keyframe desteklenen özellikler:
+
+Position X
+Position Y
+Scale X
+Scale Y
+Rotation
+Opacity
+Anchor Point
+Blur
+Brightness
+Contrast
+Saturation
+Hue
+Effect Intensity
+Zoom
+Glow
+Shake
+
+Kullanıcı herhangi bir özelliğin yanındaki elmas/keyframe butonuna basarak keyframe oluşturabilsin.
+
+Örneğin:
+
+saniye → Scale %100
+saniye → Scale %150
+
+Uygulama iki keyframe arasında otomatik animasyon oluştursun.
+
+📈 EASING
+
+Animasyonlara:
+
+Linear
+Ease In
+Ease Out
+Ease In Out
+Smooth
+Fast
+Slow
+Bounce
+Elastic
+
+easing seçenekleri ekle.
+
+Kullanıcı animasyonun hızını ve yumuşaklığını ayarlayabilsin.
+
+🎥 CAMERA ANIMATION
+
+Profesyonel kamera hareketleri:
+
+Zoom In
+Zoom Out
+Smooth Zoom
+Fast Zoom
+Camera Shake
+Handheld
+Camera Pan
+Camera Rotation
+Camera Push
+Camera Pull
+3D-style movement
+
+ekle.
+
+Kamera hareketleri keyframe ile kontrol edilebilsin.
+
+⚡ EFEKT KÜTÜPHANESİ
+
+Efektleri kategorilere ayır.
+
+GLITCH
+Glitch
+RGB Split
+Chromatic Aberration
+Digital Glitch
+VHS Glitch
+TV Glitch
+Pixel Glitch
+Random Glitch
+SHAKE
+Shake
+Soft Shake
+Strong Shake
+Horizontal Shake
+Vertical Shake
+Camera Shake
+Impact Shake
+ZOOM
+Zoom In
+Zoom Out
+Fast Zoom
+Slow Zoom
+Beat Zoom
+Shake Zoom
+BLUR
+Gaussian Blur
+Motion Blur
+Radial Blur
+Directional Blur
+Zoom Blur
+LIGHT
+Flash
+Glow
+Lens Flare
+Light Leak
+Strobe
+Flicker
+DISTORTION
+Wave
+Ripple
+Warp
+Twirl
+Lens Distortion
+Pixelate
+RGB Distortion
+RETRO
+VHS
+Retro
+Film Grain
+Noise
+Old Film
+Scan Lines
+COLOR
+Brightness
+Contrast
+Saturation
+Hue
+Temperature
+Tint
+Exposure
+Shadows
+Highlights
+Black & White
+Negative
+Color Shift
+🔥 EFEKT KOMBİNASYONLARI
+
+Birden fazla efekt aynı anda kullanılabilsin.
+
+Örnek:
+
+Zoom + Shake + Glitch + RGB Split + Flash
+
+veya:
+
+Slow Zoom + Motion Blur + Glow + VHS
+
+Efektler timeline üzerinde ayrı katmanlar olarak yönetilebilsin.
+
+Her efekt için:
+
+Intensity
+Speed
+Duration
+Start
+End
+Opacity
+
+ayarları olsun.
+
+Efekt parametreleri keyframe ile animasyonlandırılabilsin.
+
+✨ HAZIR ANİMASYONLAR
+
+Tek dokunuşla kullanılabilecek animasyonlar oluştur:
+
+Fade In
+Fade Out
+Zoom In
+Zoom Out
+Bounce
+Pop Up
+Slide Left
+Slide Right
+Slide Up
+Slide Down
+Spin
+Shake
+Glitch
+Flash
+Elastic
+Smooth Motion
+Camera Shake
+
+Kullanıcı animasyonu seçtikten sonra:
+
+Süre
+Hız
+Şiddet
+
+ayarlarını değiştirebilsin.
+
+🎭 MASK SİSTEMİ
+
+Basit fakat kullanışlı maskeler:
+
+Rectangle
+Circle
+Ellipse
+Free Draw
+
+Mask özellikleri:
+
+Position
+Scale
+Rotation
+Feather
+Opacity
+Invert
+
+Maskeler keyframe ile hareket ettirilebilsin.
+
+📝 PROFESYONEL TEXT EDITOR
+
+Metin sistemi oluştur.
+
+Özellikler:
+
+Font seçme
+Boyut
+Renk
+Kalın
+İtalik
+Stroke
+Shadow
+Glow
+Opacity
+Rotation
+Position
+Scale
+Letter spacing
+Line spacing
+
+Metin animasyonları:
+
+Typewriter
+Fade
+Pop
+Zoom
+Slide
+Bounce
+Glitch
+Shake
+Tracking
+
+Metin animasyonları keyframe ile kontrol edilebilsin.
+
+🔷 SHAPE EDITOR
+
+Şekiller:
+
+Rectangle
+Circle
+Triangle
+Star
+Polygon
+Line
+
+Şekiller:
+
+Renk
+Kenarlık
+Opacity
+Scale
+Rotation
+Position
+
+ayarlarına sahip olsun.
+
+🖼️ FOTOĞRAF EDİTÖRÜ
+Crop
+Rotate
+Zoom
+Brightness
+Contrast
+Saturation
+Sharpness
+Exposure
+Highlights
+Shadows
+Temperature
+Tint
+Blur
+Vignette
+Filters
+🎵 SES SİSTEMİ
+Müzik ekleme
+Ses efekti ekleme
+Ses kırpma
+Volume
+Fade In
+Fade Out
+Mute
+Timeline üzerinde ses gösterimi
+
+Ses dosyaları timeline ile senkronize çalışsın.
+
+🎵 BEAT SYNC
+
+Mümkünse müzikteki ritim noktalarını algılayan bir sistem oluştur.
+
+Beat noktalarında:
+
+Zoom
+Shake
+Flash
+Glitch
+Rotation
+
+gibi efektler otomatik tetiklenebilsin.
+
+Kullanıcı isterse otomatik beat efektlerini değiştirebilsin veya kapatabilsin.
+
+🎨 BLENDING MODES
+
+Katmanlar için mümkün olan:
+
+Normal
+Multiply
+Screen
+Overlay
+Add
+Darken
+Lighten
+
+modlarını ekle.
+
+🧩 OVERLAY
+
+Kullanıcı:
+
+Video overlay
+Fotoğraf overlay
+PNG
+Sticker
+GIF
+
+ekleyebilsin.
+
+Overlay'ler:
+
+Scale
+Position
+Rotation
+Opacity
+Blend Mode
+
+ile düzenlenebilsin.
+
+🖌️ DRAW
+
+Canvas üzerinde parmakla çizim yapılabilsin.
+
+Kalem
+Silgi
+Renk
+Kalınlık
+Opacity
+
+ayarları olsun.
+
+Çizimler timeline üzerinde kullanılabilsin.
+
+📱 HAZIR ŞABLONLAR
+
+Şablon kategorileri:
+
+TikTok
+Instagram Reels
+Instagram Story
+Instagram Post
+YouTube Shorts
+YouTube Thumbnail
+Cinematic
+Beat Edit
+Glitch Edit
+Velocity Edit
+Photo Edit
+Anime Edit
+Gaming Edit
+
+Kullanıcı şablonu seçip kendi medya dosyasını ekleyebilsin.
+
+🚀 VELOCITY EDIT
+
+Video hızını zaman içinde değiştirebilen velocity sistemi oluştur.
+
+Örneğin:
+
+1x → 2x → 0.5x → 3x → 1x
+
+Hız değişimleri keyframe veya timeline noktalarıyla ayarlanabilsin.
+
+💾 KAYDETME VE EXPORT
+
+Fotoğraf:
+
+JPG
+PNG
+
+Video:
+
+MP4 veya Android'in desteklediği uygun foto
+sekme yapısı bulunmalı.
+
+Timeline ekranın alt kısmında, video önizleme alanı üst tarafta olsun.
+
+Arayüz hem yeni başlayanların kolayca kullanabileceği kadar basit hem de profesyonel kullanıcıların kullanabileceği kadar gelişmiş olsun.
+
+Uygulamanın açılış ekranında büyük şekilde:
+
+AFTERCUTPRO
+
+yazısı görünsün.
+
+Altında:
+
+Create. Edit. Transform.
+
+sloganı yer alsın.
+
+Uygulama hızlı, akıcı, modern ve profesyonel bir video düzenleme uygulaması olarak tasarlansın.
